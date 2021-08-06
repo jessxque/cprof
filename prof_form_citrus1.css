@@ -552,7 +552,7 @@
       transform: none !important;
     }
     .b-stats_bar.anime .compatibility a:hover:before {
-      background: rgba(80, 0, 179, 0.65);
+      background: rgba(58, 65, 72, 0.65);
       color: #dbf5de;
       border: 3px solid rgba(87, 39, 176, 0.72);
     }
@@ -865,7 +865,7 @@
       transform: none !important;
     }
     .b-stats_bar.manga .compatibility a:hover:before {
-      background: rgba(89, 12, 233, 0.6);
+      background: rgba(58, 65, 72, 0.6);
       color: #f3daeb;
       border: 3px solid rgba(86, 31, 189, 0.85);
     }
