@@ -475,7 +475,7 @@
     .b-stats_bar.anime .compatibility a:before {
       position: absolute;
       padding: 8px;
-      background: rgba(63, 1, 178, 0.5);
+      background: rgba(58, 65, 72, 0.5);
       line-height: 18px;
       border-radius: 50%;
       color: #c0dcc4;
@@ -782,7 +782,7 @@
     .b-stats_bar.manga .compatibility a:before {
       position: absolute;
       padding: 8px;
-      background: rgba(109, 48, 223, 0.5);
+      background: rgba(58, 65, 72, 0.5);
       line-height: 18px;
       border-radius: 50%;
       color: #dcc0d3;
