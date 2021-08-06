@@ -501,7 +501,7 @@
     .b-stats_bar.anime .compatibility .rate {
       top: 94px;
       left: -14px;
-      background: rgba(var(--menu-back), 0.7) !important;
+      background: rgba(58, 65, 72, 0.7) !important;
       border-radius: 6px !important;
       width: 35px;
       text-align: center;
@@ -814,7 +814,7 @@
     .b-stats_bar.manga .compatibility .rate {
       top: 94px;
       right: -14px;
-      background: rgba(43, 42, 97, 0.7) !important;
+      background: rgba(58, 65, 72, 0.7) !important;
       border-radius: 6px !important;
       width: 35px;
       text-align: center;
